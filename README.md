@@ -8,9 +8,9 @@ and drag it into your Node_modules folder within your project directory
 # Configurating
 Within the rune-auth folder, open index.js and replace var 
 ```javascript
-apiKey = "";``` with your API key and
-```javascript
-var url = "https://na.api.pvp.net/api/lol/na/";``` with your api page based upon the server you would like to work with.
+apiKey = ""; //Your API Key
+var url = "https://na.api.pvp.net/api/lol/na/"; //The URL for the API of the Server you want to check on
+``` 
 
 # Methods
 Generates the rune key for the user, and outputs the code in the callback.

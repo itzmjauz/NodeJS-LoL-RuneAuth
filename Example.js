@@ -14,7 +14,6 @@ app.get('/generate', function(req, res) {
 // /Check?user=USERNAME
 app.get('/check', function(req, res) {
 	rune.Check(req.query.user, function(verified) {
-		console.log(verified);
 		if(verified) { res.write('GOOD'); res.end(); }
 		else {res.write('BAD'); res.end();}
 	});

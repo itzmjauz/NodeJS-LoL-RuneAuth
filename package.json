@@ -1,0 +1,25 @@
+{
+  "name": "rune-auth",
+  "version": "1.0.0",
+  "description": "rune authentication for league of legends",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzmjauz/NodeJS-LoL-RuneAuth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzmjauz/NodeJS-LoL-RuneAuth/issues"
+  },
+  "homepage": "https://github.com/itzmjauz/NodeJS-LoL-RuneAuth#readme",
+  "dependencies": {
+    "unirest": "^0.4.2"
+  }
+}

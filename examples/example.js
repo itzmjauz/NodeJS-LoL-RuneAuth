@@ -1,7 +1,7 @@
+var rune = require('../index.js');
 var express = require('express');
 var app = express();
 var http = require('http').Server(app);
-var rune = require('rune-auth');
 
 // /Generate?user=USERNAME
 app.get('/generate', function(req, res) {

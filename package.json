@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itzmjauz/NodeJS-LoL-RuneAuth.git"
+    "url": "git+https://github.com/Stackoverload/NodeJS-LoL-RuneAuth.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/itzmjauz/NodeJS-LoL-RuneAuth/issues"
+    "url": "https://github.com/Stackoverload/NodeJS-LoL-RuneAuth/issues"
   },
-  "homepage": "https://github.com/itzmjauz/NodeJS-LoL-RuneAuth#readme",
+  "homepage": "https://github.com/Stackoverload/NodeJS-LoL-RuneAuth#readme",
   "dependencies": {
     "unirest": "^0.4.2"
   }

@@ -2,11 +2,10 @@
 Enables rune authentication for League
 
 # Installing
-Simply download the rune-auth folder within node_modules
-and drag it into your Node_modules folder within your project directory 
+Simply run npm-install
 
 # Configurating
-Within the rune-auth folder, open index.js and replace var 
+Open index.js and replace the apiKey and url variables
 ```javascript
 apiKey = ""; //Your API Key
 var url = "https://na.api.pvp.net/api/lol/na/"; //The URL for the API of the Server you want to check on

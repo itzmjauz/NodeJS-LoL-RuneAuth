@@ -2,13 +2,13 @@
 Enables rune authentication for League
 
 # Installing
-Simply run npm-install
+Simply run npm install
 
 # Configurating
-Open index.js and replace the apiKey and url variables
+Edit  the apiKey and url variables in index.js
 ```javascript
 apiKey = ""; //Your API Key
-var url = "https://na.api.pvp.net/api/lol/na/"; //The URL for the API of the Server you want to check on
+url = "https://na.api.pvp.net/api/lol/na/"; //The URL for the API of the Server you want to check on
 ``` 
 
 # Methods
